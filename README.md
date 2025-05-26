@@ -1,36 +1,36 @@
 # Angular Components
 
-This project is the sample code of the Course "Angular Components for beginners".
+Este proyecto contiene el código de ejemplo para el curso "Angular Components for Beginners".
 
->Note: This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0.
+>Nota: Este proyecto fue generado con la versión 1.0.0 de [Angular CLI](https://github.com/angular/angular-cli).
 
-## How to install
+## ¿Cómo instalar?
 
-1. Clone or download the project from https://github.com/kaikcreator/AngularComponentsForBeginners.
+1. Clona o descarga el proyecto desde https://github.com/kaikcreator/AngularComponentsForBeginners.
 
-2. From the project folder, run `npm install` to install all dependencies.
+2. Desde la carpeta del proyecto, ejecuta `npm install` para instalar todas las dependencias.
 
-## Development server
+## Servidor de desarrollo
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+Ejecuta `ng serve` para un servidor de desarrollo. Accede a `http://localhost:4200/`. La aplicación se recargará automáticamente si cambias alguno de los archivos fuente.
 
-## Code scaffolding
+## Generación de código 
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive/pipe/service/class/module`.
+Ejecuta `ng generate component component-name` para generar un nuevo componente. También puedes usar `ng generate directive/pipe/service/class/module`.
 
-## Build
+## Construcción 
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory. Use the `-prod` flag for a production build.
+Ejecuta `ng build` para construir el proyecto. Los artefactos de compilación serán almacenados en el directorio `dist/`. Usa la bandera `-prod` para una compilación de producción.
 
-## Running unit tests
+## Ejecución de pruebas unitarias
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
+Ejecuta `ng test` para ejecutar las pruebas unitarias a través de [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
+## Ejecución de pruebas de extremo a extremo 
 
-Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protractortest.org/).
-Before running the tests make sure you are serving the app via `ng serve`.
+Ejecuta `ng e2e` para realizar las pruebas de extremo a extremo a través de [Protractor](http://www.protractortest.org/).
+Antes de ejecutar las pruebas, asegúrate de estar sirviendo la aplicación a través de `ng serve`.
 
-## Further help
+## Ayuda adicional 
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+Para obtener más ayuda sobre Angular CLI, usa `ng help` o consulta el [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
